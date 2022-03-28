@@ -1,17 +1,21 @@
 # DSA
 
-My exprience and results while learning the data structure and algorithm.
+Repository holding some of  data structures and algorithms that  I worked on.
 ## Aymptotic analysis
-## Master theorem
-## Alogrithm Concept
 
-It step by step method of solving the specific problems
+## Master theorem
+
+## Alogrithm 
+
+### Concept
+
+Its step by step method of solving the specific problems
 
 ### Examples
 
 #### adding two numbers
-
-the analysis: we add two numbers, so we need storage(variable) for each and another for sum
+problem: add two numbers,
+analysis: we add two numbers, so we need storage(variable) for each and another for sum
 
 ```algorithm
     1. start
@@ -22,10 +26,12 @@ the analysis: we add two numbers, so we need storage(variable) for each and anot
     6. end
 ```
 
-## Data structure concept
+## Data structure 
+### concept
 
 It is way of organising the data that it may be stored, accessed and used efficiently.
 
 ### Examples
+stack
 
 ####
