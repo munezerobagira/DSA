@@ -1,3 +1,7 @@
+// Write a Javascript function that takes an array of numbers and returns a new array of prime numbers filtered from the old array.
+
+// Note: if looping is needed, use only primitive for loop ( forearch, map, etc are not allowed).
+
 function reverseArray(array) {
   for (let i = 0; i < array.length / 2; i++) {
     let temp = array[i];
